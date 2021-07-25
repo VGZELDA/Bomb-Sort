@@ -1,0 +1,484 @@
+fileFormatVersion: 2
+guid: daf78a2c576064842a977547075fc6d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1332130261092585501
+    second: bombs-blacked-2rows_0
+  - first:
+      213: -664058116542650752
+    second: bombs-blacked-2rows_1
+  - first:
+      213: 4463327146744329305
+    second: bombs-blacked-2rows_2
+  - first:
+      213: -3287665332607504848
+    second: bombs-blacked-2rows_3
+  - first:
+      213: 4857067034123266421
+    second: bombs-blacked-2rows_4
+  - first:
+      213: 5957623189564737112
+    second: bombs-blacked-2rows_5
+  - first:
+      213: 1331804427975257503
+    second: bombs-blacked-2rows_6
+  - first:
+      213: -5261967917644440647
+    second: bombs-blacked-2rows_7
+  - first:
+      213: 5468695953862713890
+    second: bombs-blacked-2rows_8
+  - first:
+      213: -4929095135389874175
+    second: bombs-blacked-2rows_9
+  - first:
+      213: -82149830017614331
+    second: bombs-blacked-2rows_10
+  - first:
+      213: -2658070852334066813
+    second: bombs-blacked-2rows_11
+  - first:
+      213: -1027334095423601449
+    second: bombs-blacked-2rows_12
+  - first:
+      213: 6307156957405834889
+    second: bombs-blacked-2rows_13
+  - first:
+      213: 3612950268514038893
+    second: bombs-blacked-2rows_14
+  - first:
+      213: 5215162028813454799
+    second: bombs-blacked-2rows_15
+  - first:
+      213: -2205144171316315068
+    second: bombs-blacked-2rows_16
+  - first:
+      213: 2496412591637088522
+    second: bombs-blacked-2rows_17
+  - first:
+      213: -2134112027065358844
+    second: bombs-blacked-2rows_18
+  - first:
+      213: -1930583642638989438
+    second: bombs-blacked-2rows_19
+  - first:
+      213: 2333001424874508287
+    second: bombs-blacked-2rows_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bombs-blacked-2rows_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 141
+        width: 92
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10d8fe1a6dac7210800000000000000
+      internalID: 1332130261092585501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombs-blacked-2rows_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 141
+        width: 92
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086a24d49aac8c6f0800000000000000
+      internalID: -664058116542650752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombs-blacked-2rows_2
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 141
+        width: 93
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954bd0a646ce0fd30800000000000000
+      internalID: 4463327146744329305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombs-blacked-2rows_4
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 142
+        width: 95
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5796d23dbb4c76340800000000000000
+      internalID: 4857067034123266421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombs-blacked-2rows_5
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 141
+        width: 95
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856c2afd9babda250800000000000000
+      internalID: 5957623189564737112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombs-blacked-2rows_6
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 136
+        width: 95
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9de1cf22158b7210800000000000000
+      internalID: 1331804427975257503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombs-blacked-2rows_7
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 136
+        width: 112
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb1d49de0cb9f6b0800000000000000
+      internalID: -5261967917644440647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombs-blacked-2rows_8
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 141
+        width: 90
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2226a92eef5b4eb40800000000000000
+      internalID: 5468695953862713890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombs-blacked-2rows_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5
+        width: 98
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ef0733a252cdef0800000000000000
+      internalID: -82149830017614331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombs-blacked-2rows_11
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 5
+        width: 92
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383eec294a2ac1bd0800000000000000
+      internalID: -2658070852334066813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombs-blacked-2rows_12
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 5
+        width: 92
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d401a0551d2eb1f0800000000000000
+      internalID: -1027334095423601449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombs-blacked-2rows_13
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 6
+        width: 92
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98eeec406d5878750800000000000000
+      internalID: 6307156957405834889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombs-blacked-2rows_15
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 6
+        width: 88
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd088deb3aff5840800000000000000
+      internalID: 5215162028813454799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombs-blacked-2rows_17
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 6
+        width: 88
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a094759860a05a220800000000000000
+      internalID: 2496412591637088522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombs-blacked-2rows_19
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 5
+        width: 98
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287c25bd7603535e0800000000000000
+      internalID: -1930583642638989438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
